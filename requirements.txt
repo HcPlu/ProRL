@@ -1,0 +1,8 @@
+bayesian-optimization>=1.4
+gymnasium>=0.28
+numba>=0.56
+numpy>=1.21,<2.0
+pandas>=1.3
+plotly>=5.0
+scipy>=1.7
+torch>=1.10

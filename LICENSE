@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Chengpeng Hu
+Copyright (c) 2026 ProRL authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+NOTICE
+
+This repository vendors source code from the JSSEnv project
+(https://github.com/prosysscience/JSSEnv), released under the MIT License.
+The vendored files live under `optimisation/jss_env/source/` and retain their
+original structure. JSSEnv copyright belongs to its respective authors.
